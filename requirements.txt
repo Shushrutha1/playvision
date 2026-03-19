@@ -2,5 +2,7 @@ streamlit
 opencv-python-headless
 numpy
 ultralytics
-torch
+--find-links https://download.pytorch.org/whl/cpu/torch_stable.html
+torch==2.2.1+cpu
+torchvision==0.17.1+cpu
 pandas
