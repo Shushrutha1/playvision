@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+env/
+
+# Streamlit cache
+.streamlit/
+
+*.mp4
+*.mov
+*.avi

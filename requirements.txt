@@ -1,0 +1,16 @@
+opencv-python
+mediapipe
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+flask
+requests
+beautifulsoup4
+pytest
+sqlalchemy
+pydantic
+fastapi
+uvicorn
+jupyterlab
